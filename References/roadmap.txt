@@ -1,0 +1,19 @@
+Entanglement of quantum clocks through gravity by Brukner
+
+The picture of space–time assigns an ideal clock to each world line.
+This is an ideal situation because of the mass–energy equivalence which 
+implies gravitational interaction between clocks - i.e. quantum mechanical 
+superposition of energy eigenstates or metrics.
+
+In this work, we show that quantum mechanical and gravitational properties 
+of the clocks put fundamental limits to the joint measurability of time as 
+given by clocks along nearby world lines.
+
+Each energy eigenstate of the clock corresponds to a different gravitational 
+field. We prove that, as a consequence of this fact, the time dilation of 
+clocks evolving along nearby world lines is ill-defined.
+The effect leads to entanglement between nearby clocks.
+
+we show how the (classical) general relativistic notion of
+time dilation emerges from our model in terms of the average
+mass–energy of a gravitating quantum system.
