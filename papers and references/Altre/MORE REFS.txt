@@ -1,0 +1,9 @@
+[6] A. Perelomov, Generalized Coherent States and Their Applications. Modern Methods of Plant Analysis, Springer-Verlag (1986).
+[7] A. Barut and R. Raczka, Theory of Group Representations and Applications. World Scientific (1986).
+
+TO DO:
+NOTES ON OZAWA (MEASUREMENTS WITH FINITE TIME, AND KRAUS EXCHANGE) & IMPOSTAZIONE DELLA DOMANDA DI RICERCA
+
+OZAWA REF ([5] C. Foti, T. Heinosaari, S. Maniscalco, and P. Verrucchi, Whenever a quantum environment
+emerges as a classical system, it behaves like a measuring apparatus, Quantum 3, 179
+(2019).)
